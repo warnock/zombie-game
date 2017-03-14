@@ -7,7 +7,7 @@ public class App {
     boolean programRun = true;
 
     while (programRun){
-      System.out.println("After a long rainy night you wake up we refreshed to your annoying buzzing alarm!");
+      System.out.println("After a long rainy night you wake up refreshed to your annoying buzzing alarm!");
       System.out.println("What do you want to do? Go back to sleep, Use bathroom, go eat breakfast?");
       String userInput = console.readLine();
       System.out.println("______________________________________");
